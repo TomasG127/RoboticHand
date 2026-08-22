@@ -1,7 +1,7 @@
 # Low-Cost Dexterous Robotic Hand
 
 A tendon-driven anthropomorphic robotic hand and wrist, designed from scratch to reach
-**22 degrees of freedom** on a **sub-$400 bill of materials** — benchmarked against the
+**22 degrees of freedom** on a **sub-$400 bill of materials**, benchmarked against the
 $2,400 ORCA Dexterity Hand V1.
 
 Independent engineering project · May 2026 – present · Tomas Garcia
@@ -41,7 +41,7 @@ at this scale.
 by a coupled servo pair. Diagonal motion is handled by a mixing routine with magnitude
 normalization rather than by naive per-axis summation.
 
-**Actuation.** A 22-servo architecture — 14 × Feetech STS3215 for the higher-torque joints
+**Actuation.** A 22-servo architecture: 14 × Feetech STS3215 for the higher-torque joints
 and 8 × SCS0009 for splay and DIP. The two families use incompatible packet protocols and
 both default to ID 1, so they run on physically separate buses through separate handler
 instances (`sms_sts` / `scscl`). Diagnosing that was one of the more instructive failures
@@ -71,7 +71,7 @@ Five of those six would have been expensive to diagnose after assembly and nearl
 in CAD. The sixth turned out to be a constraint rather than a mistake. Verification before
 fabrication is cheap; iteration in printed hardware is not.
 
-Design iteration is tracked the same way — the DIP joint coupling went through three CAD
+Design iteration is tracked the same way: the DIP joint coupling went through three CAD
 revisions in Alibre Atom3D, evaluating a torsion-spring return against a flexure hinge, and
 that comparison is still open.
 
@@ -86,7 +86,7 @@ travel limits rather than velocity mode, so overshoot stays bounded when a joint
 mechanical stop during testing.
 
 **Scope, precisely:** this script is currently written and tested against the **6 servos**
-on the finger-and-wrist prototype — not the full 22-servo build, which isn't assembled yet.
+on the finger-and-wrist prototype: not the full 22-servo build, which isn't assembled yet.
 
 ## Current state
 
@@ -112,13 +112,13 @@ on the finger-and-wrist prototype — not the full 22-servo build, which isn't a
 ```
 control/    Python bench-test and jog control tooling
 docs/       design notes, bill of materials, photos
-LICENSE     PolyForm Noncommercial 1.0.0 — applies to code only
+LICENSE     PolyForm Noncommercial 1.0.0 - applies to code only
 NOTICE      scope of that license; reserved rights
 ```
 
 **CAD is not published here.** The mechanical design, CAD source, and derived meshes are
 maintained privately and are not part of this repository. This is deliberate, not an
-oversight — see [NOTICE](NOTICE).
+oversight - see [NOTICE](NOTICE).
 
 ## License
 
@@ -126,11 +126,11 @@ Source code in this repository is available under the
 [PolyForm Noncommercial License 1.0.0](LICENSE): free to read, learn from, modify, and use
 for noncommercial purposes.
 
-Everything else — the mechanical design, CAD, documentation, and media — is
+Everything else, the mechanical design, CAD, documentation, and media, is
 **© 2026 Tomas Garcia, all rights reserved**, and is not licensed. See [NOTICE](NOTICE) for
 the full scope. Commercial licensing inquiries welcome.
 
 ## Contact
 
-Tomas Garcia — B.S. Mechanical Engineering, University of Florida
+Tomas Garcia - B.S. Mechanical Engineering, University of Florida
 [linkedin.com/in/garciatomas127](https://linkedin.com/in/garciatomas127)
