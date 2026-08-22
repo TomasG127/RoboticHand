@@ -1,0 +1,25 @@
+Low-Cost Dexterous Robotic Hand
+Copyright (c) 2026 Tomas Garcia. All rights reserved.
+
+SCOPE OF THE LICENSE IN THIS REPOSITORY
+---------------------------------------
+The LICENSE file (PolyForm Noncommercial License 1.0.0) applies ONLY to
+the source code in this repository.
+
+The following are NOT licensed under the LICENSE file, are NOT published
+here, and are expressly reserved by the author:
+
+  * The mechanical design of the hand, wrist, and forearm assemblies,
+    including all mechanisms, kinematics, and geometry.
+  * All CAD source files, derived meshes, drawings, and manufacturing
+    files (these are maintained in a separate private repository and
+    have never been published).
+  * All photographs, renders, diagrams, videos, and written documentation
+    in this repository.
+
+No license, express or implied, is granted to any of the above. No patent
+rights are granted except as expressly stated in the LICENSE file, which
+grants patent rights only for the noncommercial purposes it defines.
+Commercial rights in this project are reserved in full by the author.
+
+For commercial licensing inquiries, contact the author.

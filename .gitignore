@@ -1,0 +1,54 @@
+# ── Mechanical design source — NOT published ────────────────────────────
+# CAD, meshes, and manufacturing files are proprietary and kept in a
+# private repository. Never commit these.
+*.AD_PRT
+*.AD_SMP
+*.AD_DRW
+*.SLDPRT
+*.SLDASM
+*.SLDDRW
+*.f3d
+*.f3z
+*.ipt
+*.iam
+*.prt
+*.asm
+*.step
+*.stp
+*.STEP
+*.STP
+*.iges
+*.igs
+*.IGS
+*.x_t
+*.x_b
+*.sat
+*.stl
+*.STL
+*.3mf
+*.3MF
+*.obj
+*.gcode
+*.bgcode
+cad/
+mesh/
+print/
+
+# ── Python ─────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# ── Editor / OS ────────────────────────────────────────────────────────
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ── Scratch ────────────────────────────────────────────────────────────
+*.log
+scratch/
+notes_private/
