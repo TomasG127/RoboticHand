@@ -53,8 +53,6 @@ in isolation.
 
 ## Engineering approach
 
-The part of this project I'd point at first isn't a component - it's a process decision.
-
 Before committing the wrist to fabrication, I ran a full hand-calculation pass over the
 bearing loads and tendon-routing geometry rather than printing a revision and finding out.
 That pass caught **six distinct geometry errors** before any of them reached hardware:
