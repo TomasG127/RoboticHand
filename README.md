@@ -1,6 +1,6 @@
 # Dexterous Robotic Hand
 
-I'm building a tendon-driven robotic hand with a target of 22 degrees of freedom and a parts budget below $400. I started the design independently. A student team is now helping develop and test it.
+This is a tendon-driven robotic hand with a target of 22 degrees of freedom and a parts budget below $400, previously an independent project by Tomas G and now under collaborative development by our student team.
 
 **Status: prototype development, October 2026.** This is not a finished 22-DOF hand.
 
