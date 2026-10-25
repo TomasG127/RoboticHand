@@ -1,6 +1,6 @@
 # Dexterous Robotic Hand
 
-This is a tendon-driven robotic hand with a target of 22 degrees of freedom and a parts budget below $400, previously an independent project by Tomas G and now under collaborative development by our student team.
+This is a tendon-driven robotic hand with a target of 22 degrees of freedom and a parts budget below $400, previously an independent project by Tomas Garcia and now under collaborative development by our student team.
 
 **Status: prototype development, October 2026.** This is not a finished 22-DOF hand.
 
@@ -49,7 +49,19 @@ CAD source, meshes, and manufacturing files are **not public**. Do not add them 
 
 The [PolyForm Noncommercial 1.0.0 license](LICENSE) applies **only to source code**. Mechanical designs, documentation, and media remain reserved. See [NOTICE](NOTICE).
 
-## Contact
+## Main Contact
 
-Tomas Garcia  
+Tomas Garcia (Lead)
 [LinkedIn](https://linkedin.com/in/garciatomas127)
+
+## Collaborators
+
+Nicholas Chaves
+
+Brandon Covert
+
+Eric Chen
+[LinkedIn](https://www.linkedin.com/in/eric-chen-597a0242b/)
+
+Alberto Riefkohl Zambrana
+[LinkedIn](https://www.linkedin.com/in/alberto-riefkohl/)
