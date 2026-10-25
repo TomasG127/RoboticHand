@@ -49,12 +49,12 @@ CAD source, meshes, and manufacturing files are **not public**. Do not add them 
 
 The [PolyForm Noncommercial 1.0.0 license](LICENSE) applies **only to source code**. Mechanical designs, documentation, and media remain reserved. See [NOTICE](NOTICE).
 
-## Main Contact
+## Main contact
 
 Tomas Garcia
 [LinkedIn](https://linkedin.com/in/garciatomas127)
 
-## Secondary Contacts
+## Secondary contacts
 
 Nicholas Chaves
 
