@@ -51,10 +51,10 @@ The [PolyForm Noncommercial 1.0.0 license](LICENSE) applies **only to source cod
 
 ## Main Contact
 
-Tomas Garcia (Lead)
+Tomas Garcia
 [LinkedIn](https://linkedin.com/in/garciatomas127)
 
-## Collaborators
+## Secondary Contacts
 
 Nicholas Chaves
 
