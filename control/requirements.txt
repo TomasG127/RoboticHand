@@ -1,1 +1,2 @@
 pyserial>=3.5
+feetech-servo-sdk  # provides the `scservo_sdk` module; verify the package name/version on PyPI

@@ -1,0 +1,5 @@
+{
+  "schema_version": 1,
+  "_note": "Written by calibration.py. Counts are raw servo counts measured by hand against slack tendons. Empty until you calibrate.",
+  "servos": {}
+}
