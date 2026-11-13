@@ -4,6 +4,8 @@ This is a tendon-driven robotic hand with a target of 22 degrees of freedom and 
 
 **Status: prototype development, October 2026.** This is not a finished 22-DOF hand.
 
+## https://youtube.com/shorts/V8gURRV_oFg?feature=share
+
 ## Current build
 
 - Built: forearm motor gantry, wrist, palm, and one actuated finger.
